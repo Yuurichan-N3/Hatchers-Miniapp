@@ -1,0 +1,16 @@
+{
+  "name": "hatcher-bot",
+  "version": "1.0.0",
+  "description": "Automate Hatcher Element battles",
+  "main": "battle.js",
+  "type": "module",
+  "scripts": {
+    "start": "node battle.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.7.0"
+  },
+  "author": "https://t.me/sentineldiscus",
+  "license": "ISC"
+}
